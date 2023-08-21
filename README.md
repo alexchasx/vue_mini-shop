@@ -1,7 +1,5 @@
 # vue_mini-shop
-
-## Мини-магазин на Vue 3
-git
+Мини-магазин на Vue 3
 
 ## Project setup
 
